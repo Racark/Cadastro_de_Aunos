@@ -1,0 +1,90 @@
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Cadastro Alunos e Materias.dll.config
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Cadastro Alunos e Materias.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Cadastro Alunos e Materias.pdb
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\csc.exe
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\csc.exe.config
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\csc.rsp
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\csi.exe
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\csi.exe.config
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\csi.rsp
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.AppContext.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Console.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Net.Http.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\vbc.exe
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\vbc.exe.config
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\vbc.rsp
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Antlr3.Runtime.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\EntityFramework.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\EntityFramework.SqlServer.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Newtonsoft.Json.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.Helpers.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.Mvc.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.Optimization.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.Razor.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.WebPages.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\WebGrease.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\EntityFramework.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\EntityFramework.SqlServer.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.Helpers.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.Mvc.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.Optimization.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.Razor.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.WebPages.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Newtonsoft.Json.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Antlr3.Runtime.pdb
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\obj\Debug\Cadastro Alunos e Materias.csprojAssemblyReference.cache
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\obj\Debug\Cadastro Alunos e Materias.csproj.CoreCompileInputs.cache
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\obj\Debug\Cadastro Alunos e Materias.csproj.CopyComplete
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\obj\Debug\Cadastro Alunos e Materias.dll
+C:\Users\Dennys\source\repos\Cadastro Alunos e Materias\Cadastro Alunos e Materias\obj\Debug\Cadastro Alunos e Materias.pdb
